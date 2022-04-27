@@ -29,17 +29,17 @@ Below are the technogical aspects necessary to run and interact with this applic
 
 <h1>In this repo</h1>
 <ul>
-    <li><a href="https://github.com/florenzkat/CS3200-Final-Project/tree/main/creature%20data"><code>/creature data</code></a>: Folder containing all of the CSV files scraped from the GBIF web browser used to populate our tables</li>
-    <li><a href="https://github.com/florenzkat/CS3200-Final-Project/tree/main/sql"><code>/sql</code></a>: Folder containing all of the SQL files created for this project including:</li>
+    <li><a href="https://github.com/jaanatabalon/CS3200-FinalProject/tree/master/creature%20data"><code>/creature data</code></a>: Folder containing all of the CSV files scraped from the GBIF web browser used to populate our tables</li>
+    <li><a href="https://github.com/jaanatabalon/CS3200-FinalProject/tree/master/sql"><code>/sql</code></a>: Folder containing all of the SQL files created for this project including:</li>
         <ul>
-            <li><a href="https://github.com/florenzkat/CS3200-Final-Project/blob/main/sql/creatureSpottingsDB.sql"><code>creatureSpottingsDB.sql</code></a>: SQL file to create all normalized tables in the database</li>
-            <li><a href="https://github.com/florenzkat/CS3200-Final-Project/blob/main/sql/creatureSpottingsDump.sql"><code>creatureSpottingsDump.sql</code></a>: SQL file to create the entire database, including all table data, all at once</li>
-            <li><a href="https://github.com/florenzkat/CS3200-Final-Project/blob/main/sql/procs_triggers.sql"><code>procs_triggers.sql</code></a>: SQL file to create all necessary procedures and triggers</li>
+            <li><a href="https://github.com/jaanatabalon/CS3200-FinalProject/blob/master/sql/creatureSpottingsDB.sql"><code>creatureSpottingsDB.sql</code></a>: SQL file to create all normalized tables in the database</li>
+            <li><a href="https://github.com/jaanatabalon/CS3200-FinalProject/blob/master/sql/creatureSpottingsDump.sql"><code>creatureSpottingsDump.sql</code></a>: SQL file to create the entire database, including all table data, all at once</li>
+            <li><a href="https://github.com/jaanatabalon/CS3200-FinalProject/blob/master/sql/procs_triggers.sql"><code>procs_triggers.sql</code></a>: SQL file to create all necessary procedures and triggers</li>
         </ul>
-    <li><a href="https://github.com/florenzkat/CS3200-Final-Project/blob/main/CS3200%2BFinalProjectDemoVideo.mp4"><code>CS3200+FinalProjectDemoVideo.mp4</code></a>: Video to explain and demo our project</li>
-    <li><a href="https://github.com/florenzkat/CS3200-Final-Project/blob/main/CS3200creature_spottings.py"><code>CS3200creature_spottings.py</code></a>: The executable Python program that connects to the creature_spottings database and used to interact with the database</li>
-    <li><a href="https://github.com/florenzkat/CS3200-Final-Project/blob/main/sqlVar.py"><code>sqlVar.py</code></a>: Python file to hold variables of SQL calls made in our code</li>
-    <li><a href="https://github.com/florenzkat/CS3200-Final-Project/blob/main/README.md"><code>README.md</code></a>: This file!</li>
+    <li><a href="https://github.com/jaanatabalon/CS3200-FinalProject/blob/master/CS3200%2BFinalProjectDemoVideo.mp4"><code>CS3200+FinalProjectDemoVideo.mp4</code></a>: Video to explain and demo our project</li>
+    <li><a href="https://github.com/jaanatabalon/CS3200-FinalProject/blob/master/CS3200creature_spottings.py"><code>CS3200creature_spottings.py</code></a>: The executable Python program that connects to the creature_spottings database and used to interact with the database</li>
+    <li><a href="https://github.com/jaanatabalon/CS3200-FinalProject/blob/master/sqlVar.py"><code>sqlVar.py</code></a>: Python file to hold variables of SQL calls made in our code</li>
+    <li><a href="https://github.com/jaanatabalon/CS3200-FinalProject/blob/master/README.md"><code>README.md</code></a>: This file!</li>
 </ul>
 <br>
 
@@ -75,8 +75,8 @@ Below are the technogical aspects necessary to run and interact with this applic
 <ul>
     <li><a href="https://docs.google.com/document/d/1iyNG2t4s5Hf73U3ktlM_kfVg9TzZ7nm5hzp9Rq7EXEA/edit?usp=sharing">Project proposal</a></li>
     <li><a href="https://docs.google.com/document/d/1SCU78gjwNTCGARCyiVDa-YuPHVsXkPjsdmLAWHzmhpI/edit?usp=sharing">Final project report</a></li>
-    <li>Demo video</li>
-    <li><a href="https://github.com/florenzkat/CS3200-Final-Project/blob/main/diagrams/UML.pdf">UML diagram</a></li>
-    <li><a href="https://github.com/florenzkat/CS3200-Final-Project/blob/main/diagrams/LogicalDesign.pdf">Logical design</a></li>
-    <li><a href="https://github.com/florenzkat/CS3200-Final-Project/blob/main/diagrams/UserFlow.pdf">Final user flow</a></li>
+    <li><a href="https://youtu.be/7dlELG_94_0">Demo video</a></li>
+    <li><a href="https://github.com/jaanatabalon/CS3200-FinalProject/blob/master/diagrams/UML.pdf">UML diagram</a></li>
+    <li><a href="https://github.com/jaanatabalon/CS3200-FinalProject/blob/master/diagrams/LogicalDesign.pdf">Logical design</a></li>
+    <li><a href="https://github.com/jaanatabalon/CS3200-FinalProject/blob/master/diagrams/UserFlow.pdf">Final user flow</a></li>
 </ul>
