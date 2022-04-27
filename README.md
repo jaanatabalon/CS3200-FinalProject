@@ -22,7 +22,6 @@ We scraped the Global Biodiversity Information Facility (GBIF) web browser, whic
     <li><a href="https://docs.google.com/document/d/1SCU78gjwNTCGARCyiVDa-YuPHVsXkPjsdmLAWHzmhpI/edit?usp=sharing">Project Final Report</a>: TabalonJBlancaflorFHsuT_final_report.pdf</li>
     <li><a href="https://github.com/jaanatabalon/CS3200-FinalProject/blob/master/CS3200%2BFinalProjectDemoVideo.mp4">A Project video or a presentation</a>: YouTube <a href="https://youtu.be/7dlELG_94_0">link</a></li>
 </ol>
-<br>
 
 <h1>Technology Specifications</h1>
 We utilized SQL queries and Python as the host language in which the SQL queries were embedded into. We connected the SQL database to Python using the PyMySQL client library. <br><br>
