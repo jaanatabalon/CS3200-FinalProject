@@ -15,6 +15,15 @@ We scraped the Global Biodiversity Information Facility (GBIF) web browser, whic
 🐸 &ensp;🐠 &ensp;🍄&ensp;🌺&ensp;🌳
 <br>
 
+<h1>Project Deliverables</h1>
+<ol>
+    <li><a href="https://github.com/jaanatabalon/CS3200-FinalProject/blob/master/sql/creatureSpottingsDump.sql">MySQL Database Schema and database programming objects</a>: creatureSpottingsDump.sql</li>
+    <li><a href="https://github.com/jaanatabalon/CS3200-FinalProject/blob/master/CS3200creature_spottings.py">Database Application</a>: CS3200creature_spottings.py</li>
+    <li><a href="https://docs.google.com/document/d/1SCU78gjwNTCGARCyiVDa-YuPHVsXkPjsdmLAWHzmhpI/edit?usp=sharing">Project Final Report</a>: TabalonJBlancaflorFHsuT_final_report.pdf</li>
+    <li><a href="https://github.com/jaanatabalon/CS3200-FinalProject/blob/master/CS3200%2BFinalProjectDemoVideo.mp4">A Project video or a presentation</a>: YouTube <a href="https://youtu.be/7dlELG_94_0">link</a></li>
+</ol>
+<br>
+
 <h1>Technology Specifications</h1>
 We utilized SQL queries and Python as the host language in which the SQL queries were embedded into. We connected the SQL database to Python using the PyMySQL client library. <br><br>
 Below are the technogical aspects necessary to run and interact with this application: <br>
@@ -40,6 +49,7 @@ Below are the technogical aspects necessary to run and interact with this applic
     <li><a href="https://github.com/jaanatabalon/CS3200-FinalProject/blob/master/CS3200creature_spottings.py"><code>CS3200creature_spottings.py</code></a>: The executable Python program that connects to the creature_spottings database and used to interact with the database</li>
     <li><a href="https://github.com/jaanatabalon/CS3200-FinalProject/blob/master/sqlVar.py"><code>sqlVar.py</code></a>: Python file to hold variables of SQL calls made in our code</li>
     <li><a href="https://github.com/jaanatabalon/CS3200-FinalProject/blob/master/README.md"><code>README.md</code></a>: This file!</li>
+    <li><a href="https://github.com/jaanatabalon/CS3200-FinalProject/blob/master/TabalonJBlancaflorFHsuT_final_report.pdf"><code>TabalonJBlancaflorFHsuT_final_report.pdf</code></a>: PDF file of our final report</li>
 </ul>
 <br>
 
